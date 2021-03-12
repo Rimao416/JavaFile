@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Users\Origo\Documents\Documents de Yori\UIT 2020 - 2021\semestre 1\Programmation java\eclipse" version="1.8.0_51">
+<bootpath>
+<entry path="C:\Users\Origo\Documents\Documents de Yori\UIT 2020 - 2021\semestre 1\Programmation java\eclipse\lib\resources.jar"/>
+<entry path="C:\Users\Origo\Documents\Documents de Yori\UIT 2020 - 2021\semestre 1\Programmation java\eclipse\lib\rt.jar"/>
+<entry path="C:\Users\Origo\Documents\Documents de Yori\UIT 2020 - 2021\semestre 1\Programmation java\eclipse\lib\sunrsasign.jar"/>
+<entry path="C:\Users\Origo\Documents\Documents de Yori\UIT 2020 - 2021\semestre 1\Programmation java\eclipse\lib\jsse.jar"/>
+<entry path="C:\Users\Origo\Documents\Documents de Yori\UIT 2020 - 2021\semestre 1\Programmation java\eclipse\lib\jce.jar"/>
+<entry path="C:\Users\Origo\Documents\Documents de Yori\UIT 2020 - 2021\semestre 1\Programmation java\eclipse\lib\charsets.jar"/>
+<entry path="C:\Users\Origo\Documents\Documents de Yori\UIT 2020 - 2021\semestre 1\Programmation java\eclipse\lib\jfr.jar"/>
+<entry path="C:\Users\Origo\Documents\Documents de Yori\UIT 2020 - 2021\semestre 1\Programmation java\eclipse\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Users\Origo\Documents\Documents de Yori\UIT 2020 - 2021\semestre 1\Programmation java\eclipse\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Users\Origo\Documents\Documents de Yori\UIT 2020 - 2021\semestre 1\Programmation java\eclipse\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

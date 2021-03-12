@@ -1,0 +1,32 @@
+package TP2;
+
+public class TestTP2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+	/*	Point P = new Point(2,6);
+		Forme[]f= new Forme[3];
+		f[0]=new Cercle(4,P);
+		f[1]=new Rectangle(P,2,8);
+		f[2]=new Cercle(16,P);
+		
+		for(int i=0;i<3;i++)
+		{
+			System.out.println("Périmetre: "+f[i].perimetre());
+			System.out.println("Surface: "+f[i].surface());
+		}
+		*/
+		Cercle c1 =new Cercle();
+		Cercle c2 =new Cercle();
+		Cercle c3 =new Cercle();
+		Cercle c4 =new Cercle();
+		Cercle c5 =new Cercle();
+		Cercle c6 =new Cercle();
+		c1 = c2;
+		c5=c6;
+		System.gc();
+	}
+
+}
